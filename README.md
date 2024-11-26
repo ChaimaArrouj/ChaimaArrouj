@@ -69,3 +69,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a> 
 </p>
+
+## 📊 Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaArrouj&theme=tokyonight_duo" alt="ChaimaArrouj" /></p>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="ChaimaArrouj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChaimaArrouj&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaimaArrouj&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ChaimaArrouj" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
