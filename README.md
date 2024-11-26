@@ -5,12 +5,13 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 <h3 align="center">A software engineer</h3>
 </br>
+
 ## 🙋‍♂️ About Me
 
 - 🥋I am a passionate software engineer with a strong drive for designing solutions and solving complex problems. I am always eager to explore new technologies and apply innovative, effective ideas to create impactful solutions.
 
 - 📘 I'm Currently learning **Angular / Spring Boot/ Docker/ Devops**.
-<br>
+
 - 📫 How to reach me **chaima.arrouj@esprit.tn**.
 </br>
 
