@@ -23,7 +23,7 @@
 </p>
 
 ## 🛠 Languages and Tools
-<h3 align="left"></h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
@@ -72,17 +72,34 @@
   </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
+  </a>
+  <a href="https://www.sonarqube.org" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sonarqube_logo.svg/1200px-Sonarqube_logo.svg.png" alt="sonarqube" width="40" height="40"/> 
+  </a>
+  <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nexus/nexus-original-wordmark.svg" alt="nexus" width="40" height="40"/> 
+  </a>
+  <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="dockerhub" width="40" height="40"/> 
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="40" height="40"/> 
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="40" height="40"/> 
+  </a>
 </p>
 
-## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaArrouj&theme=tokyonight_duo" alt="ChaimaArrouj" /></p>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="ChaimaArrouj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChaimaArrouj&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaimaArrouj&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ChaimaArrouj" height="230px"/>
-<br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## 📊 Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaimaArrouj&show_icons=true&locale=en&layout=compact" alt="ChaimaArrouj
+" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChaimaArrouj&show_icons=true&locale=en" alt="ChaimaArrouj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaArrouj&" alt="ChaimaArrouj" /></p>
+
   </p>
