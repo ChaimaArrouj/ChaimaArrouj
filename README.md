@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Chaima+Arrouj;"Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+I'm+Chaima+Arrouj&center=true&size=25"> 
 </div>
-<h3 align="center">A software engineer</h3>
-## 🙋‍♂️ About Me
-
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
-- 🥋I am a passionate software engineer with a strong drive for designing solutions and solving complex problems. I am always eager to explore new technologies and apply innovative, effective ideas to create impactful solutions.
+<h3 align="center">A software engineer</h3>
 </br>
+## 🙋‍♂️ About Me
+
+- 🥋I am a passionate software engineer with a strong drive for designing solutions and solving complex problems. I am always eager to explore new technologies and apply innovative, effective ideas to create impactful solutions.
+
 - 📘 I'm Currently learning **Angular / Spring Boot/ Docker/ Devops**.
 <br>
 - 📫 How to reach me **chaima.arrouj@esprit.tn**.
